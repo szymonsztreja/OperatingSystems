@@ -1,0 +1,25 @@
+Zadanie 1. W swoim katalogu domowym i jego podkatalogach znajdź pliki i katalogi o nazwie nowy.
+
+find ~ "nowy"
+
+Zadanie 2. W swoim katalogu domowym i jego podkatalogach znajdź katalogi o nazwie Dokumenty.
+
+find ~ -type d -name 'Documents'
+
+Zadanie 3. W swoim katalogu domowym i jego podkatalogach znajdź pliki, które zaczynają się na a lub o.
+
+find ~ -type f -name '[ao]*'
+
+Zadanie 4. W swoim katalogu domowym i jego podkatalogach znajdź pliki, które zaczynają się na s i zawiera dokładnie 3 znaki.
+
+find ~ -type f -name 's??'
+
+Zadanie 5. W swoim katalogu domowym i jego podkatalogach znajdź pliki, które w nazwie zawierają podsłowo prog, bez rozróżniania wielkości liter.
+
+find ~ -type f -iname '*prog*'
+
+Zadanie 6. W swoim katalogu domowym, bez podkatalogów, znajdź pliki, które w nazwie zawierają podsłowo conf.
+
+
+
+

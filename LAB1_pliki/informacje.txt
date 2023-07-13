@@ -1,0 +1,8 @@
+Liczba wierszy:
+11
+Liczba slow:
+11
+Liczba znakow:
+90
+(echo -e "Liczba wierszy:" ; wc -l < katalogi.txt ; echo -e "Liczba slow:" ;
+ wc -w < katalogi.txt ; echo -e "Liczba znakow:" ; wc -m < katalogi.txt) > informacje.txt 

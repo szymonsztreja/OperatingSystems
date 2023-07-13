@@ -1,0 +1,11 @@
+     1	Desktop
+     2	Documents
+     3	Downloads
+     4	katalogi.txt
+     5	Music
+     6	Pictures
+     7	Public
+     8	SO
+     9	Templates
+    10	Videos
+    11	krzmot
